@@ -1,0 +1,7 @@
+# bond keys for the remote: never publish
+keys.json
+# session logs
+*.log
+__pycache__/
+*.pyc
+node_modules/

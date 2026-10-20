@@ -1,0 +1,12 @@
+# Siri Remote bond keys: never publish
+tools/bumble-bridge/keys.json
+# session / capture logs
+*.log
+logs/
+# build output
+**/bin/
+**/obj/
+.pio/
+__pycache__/
+*.pyc
+node_modules/
